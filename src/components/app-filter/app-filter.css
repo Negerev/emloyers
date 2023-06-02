@@ -1,0 +1,6 @@
+.btn-group {
+  margin-top: 20px;
+}
+.btn-group button + button {
+  margin-left: 10px !important;
+}
